@@ -109,5 +109,12 @@ h2 {
         text-align: center;
     }
 
-    
+    img {
+        max-height: 350px;
+        max-width: 300px;
+    }
+
+    .container .logo {
+        font-size: larger;
+    }
 }
